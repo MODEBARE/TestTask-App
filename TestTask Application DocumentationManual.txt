@@ -1,0 +1,18 @@
+My Name is Ariyibi Elijah Ayomide, I am the developer/builer of TestTask Application.
+Here are the documentation/manual or the application.
+
+- Upon successful landing on the homepage.
+- the user should navigate to "User" pane section by clicking,
+- Upon successful landing to the User Index page, an empty/no record page would be shown.
+
+To Test for the CRUD functionalities of this app
+- The user should click on "Create New User" where there would be a redirection to the form page to fill out the necesaary informations.
+- After filling all informations correctly, the user should click on create button on the form page. Successful clicking of this would redirect to the
+index page showing the available users created.
+_ By now, the user can have access to "Update" and "Delete" funcionality of the application.
+
+
+This Application is capable of creating numerous/multiples users with full capability to update and delete.
+
+
+Thank you.
